@@ -15,7 +15,7 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 1. Superstore Sales Dashboard – Tableau
 - Visualized regional sales trends, profit margins, and category performance
 - Used calculated fields, filters, and parameters for dynamic insights
-- View Project (Insert Tableau Public link or GitHub repo)
+-[View Project](https://public.tableau.com/app/profile/marcuslwright/viz/SuperstoreDashboard/MainPage)
 2. Combined Sales Summary – Power BI
 - Integrated multiple datasets to track KPIs across departments
 - Built interactive dashboards with slicers and drill-through pages
@@ -39,9 +39,10 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 - Master Azure and Tableau certifications at my own pace
 - Support family while building a meaningful career transition
 
- Let’s Connect
-- LinkedIn: [Insert LinkedIn URL]
-- Email: [Insert Email Address]
-- Resume: [Link to updated resume PDF or Word doc]
-- Tableau Public: [Insert Tableau Public URL]
 
+##  Let’s Connect
+
+- **LinkedIn:** [https://www.linkedin.com/in/marcuslwright](https://www.linkedin.com/in/marcuslwright)
+- **Email:** marcuslwright@email.com *(replace with your actual email)*
+- **Resume:** [View Resume](https://github.com/marcuslwright/resume/blob/main/Marcus_Wright_Resume.pdf)
+- **Tableau Public:** [https://public.tableau.com/app/profile/marcuslwright](https://public.tableau.com/app/profile/marcuslwright)
