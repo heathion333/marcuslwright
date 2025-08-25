@@ -15,7 +15,7 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 1. Superstore Sales Dashboard – Tableau
 - Visualized regional sales trends, profit margins, and category performance
 - Used calculated fields, filters, and parameters for dynamic insights
--[View Project](https://public.tableau.com/app/profile/marcuslwright/viz/SuperstoreDashboard/MainPage)
+- [View Project](https://public.tableau.com/app/profile/marcus.wright5122/viz/Retail_Performance_Dashboard_2025/RetailSalesTrendsTableauShowcase)
 2. Combined Sales Summary – Power BI
 - Integrated multiple datasets to track KPIs across departments
 - Built interactive dashboards with slicers and drill-through pages
