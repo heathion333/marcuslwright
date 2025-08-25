@@ -42,7 +42,7 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 
 ## 🤝 Let’s Connect
 
-- **LinkedIn:** [linkedin.com/in/marcuslwright](https://www.linkedin.com/in/marcuswright-analytics)  
-- **Email:** leaveil80@yahoo.com *(update with your actual email)*  
+- **LinkedIn:** [linkedin.com/in/marcuswright-analytics](https://www.linkedin.com/in/marcuswright-analytics)  
+- **Email:** leaveil80@yahoo.com  
 - **Resume:** [View Resume](https://github.com/marcuslwright/resume/blob/main/Marcus_Wright_Resume.pdf)  
 - **Tableau Public:** [public.tableau.com/profile/marcus.wright5122](https://public.tableau.com/app/profile/marcus.wright5122)
