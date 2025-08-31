@@ -28,7 +28,7 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 - Leveraged pandas and matplotlib to clean, reshape, and analyze retail sales data
 - Identified seasonal patterns, regional outliers, and performance gaps through visual storytelling
 - Demonstrates foundational wrangling techniques used across global poverty and inequality dashboards
- 👉  [Global Sales Analysis Workbook](https://github.com/marcuslwright/heathion333/blob/main/Global_sales_Analysis_Marcus%20Wright.xlsx)
+ 👉  📊 [Global Sales Analysis Workbook](https://github.com/marcuslwright/heathion333/blob/main/dashboards/Global_sales_Analysis_Marcus%20Wright.xlsx)
 
  Global Sales Analysis – Excel Workbook
 Analyzed multi-country sales performance using Excel pivot tables, advanced formulas, and conditional formatting
