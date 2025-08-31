@@ -24,14 +24,25 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 - Includes CTEs, window functions, joins, and data cleaning scripts
 - Designed for interview prep and real-world data wrangling
 - View Project
-4. Python Data Wrangling – Jupyter Notebook
-- Cleaned and analyzed sales data using pandas and matplotlib
-- Explored trends and outliers with visual storytelling
-- View Project
+4.Sales Trends & Outlier Detection – Python Jupyter Notebook
+Leveraged pandas and matplotlib to clean, reshape, and analyze retail sales data
+Identified seasonal patterns, regional outliers, and performance gaps through visual storytelling
+Demonstrates foundational wrangling techniques used across global poverty and inequality dashboards
+ 👉 View Project
+
+ Global Sales Analysis – Excel Workbook
+Analyzed multi-country sales performance using Excel pivot tables, advanced formulas, and conditional formatting
+Identified top-performing regions, seasonal trends, and product-level insights across global markets
+Demonstrates operational fluency and cross-platform analytics, bridging Excel with Python and Tableau dashboards
+ 👉 View Workbook
+
+If you want, I can help you write a short intro paragraph at the top of your README that ties these projects together—something that reflects your journey from warehouse ops to global analytics, and sets the tone for recruiters. Ready to draft that next?
+
 5. SAS Workflow Prototype
 - Used PROC SQL and data steps to analyze document operations
 - Modeled workflow efficiency for banking use case
-- View Project
+   View Project
+-👉 View Project
 
  Career Goals
 - Land a remote data analytics role with a global company
