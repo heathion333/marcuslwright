@@ -35,7 +35,7 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 Analyzed multi-country sales performance using Excel pivot tables, advanced formulas, and conditional formatting
 Identified top-performing regions, seasonal trends, and product-level insights across global markets
 Demonstrates operational fluency and cross-platform analytics, bridging Excel with Python and Tableau dashboards
--  [World Bank Poverty Trends – Python Notebook](https://github.com/marcuslwright/heathion333/blob/main/WorldBank_PovertyTrends_Analysis.ipynb)
+-  [Global Poverty & Inequality Analysis – Python Notebook](https://github.com/marcuslwright/heathion333/blob/main/poverty-analysis-worldbank.ipynb)
 
 5. SAS Workflow Prototype
 - Used PROC SQL and data steps to analyze document operations
