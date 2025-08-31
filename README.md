@@ -25,9 +25,9 @@ Resilient and future-focused analytics professional with 15+ years in compliance
 - Designed for interview prep and real-world data wrangling
 - View Project
 4.Sales Trends & Outlier Detection – Python Jupyter Notebook
-Leveraged pandas and matplotlib to clean, reshape, and analyze retail sales data
-Identified seasonal patterns, regional outliers, and performance gaps through visual storytelling
-Demonstrates foundational wrangling techniques used across global poverty and inequality dashboards
+- Leveraged pandas and matplotlib to clean, reshape, and analyze retail sales data
+- Identified seasonal patterns, regional outliers, and performance gaps through visual storytelling
+- Demonstrates foundational wrangling techniques used across global poverty and inequality dashboards
  👉  [Global Sales Analysis Workbook](https://github.com/marcuslwright/heathion333/blob/main/Global_sales_Analysis_Marcus%20Wright.xlsx)
 
  Global Sales Analysis – Excel Workbook
