@@ -56,7 +56,7 @@ Identified seasonal patterns, regional outliers, and performance gaps
 ### 5. 🌍 Global Poverty & Inequality Analysis – Python  
 Analyzed World Bank data to uncover poverty trends across regions  
 Built visualizations to support SDG framing and social impact analytics  
-🔗 [View Notebook](https://github.com/marcuslwright/marcuslwright/blob/main/poverty-analysis-worldbank.ipynb)]
+🔗 [View Notebook](https://github.com/marcuslwright/marcuslwright/blob/main/poverty-analysis-worldbank.ipynb.ipynb)]
 
 ---
 
