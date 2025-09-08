@@ -64,6 +64,7 @@ Built visualizations to support SDG framing and social impact analytics
 Used PROC SQL and data steps to analyze document operations  
 Modeled workflow efficiency for banking use case  
 🔗 *Link coming soon*
+
 ---
 
 ## 🎯 Career Goals
