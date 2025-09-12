@@ -42,13 +42,13 @@ Built interactive dashboards with slicers and drill-through pages
 ### 3.  SQL Query Library – PostgreSQL
 
 A curated collection of SQL scripts built for:
-- ✅ Interview prep (CTEs, window functions, subqueries)
-- 📊 Real-world data wrangling (joins, cleaning, aggregations)
-- 🌍 Portfolio storytelling (global sales, poverty metrics, internship case studies)
+-  Interview prep (CTEs, window functions, subqueries)
+-  Real-world data wrangling (joins, cleaning, aggregations)
+-  Portfolio storytelling (global sales, poverty metrics, internship case studies)
 
 Each script includes inline commentary to explain logic and business relevance.
 
-🔧 PostgreSQL 16.10 | 💼 Built in pgAdmin | 📁 Organized for recruiter review
+🔧 PostgreSQL 16.10 |  Built in pgAdmin |  Organized for recruiter review
 
 🔗 Link coming soon – stay tuned!
 
